@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Java+Developer;Android+App+Developer;Desktop+Application+Developer;Problem+Solver)
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suzankatuwal.com.np)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sujankatuwal.com.np)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryomensuzan)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryomensuzan)
   
@@ -112,7 +112,7 @@ Design: Figma
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ryomensuzan)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ryomensuzan)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suzankatuwal.com.np)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sujankatuwal.com.np)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujankatuwal29@gmail.com)
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
   
